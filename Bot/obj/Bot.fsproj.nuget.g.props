@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\simon\.nuget\packages\</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.3.0</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\simon\.nuget\packages\" />
+  </ItemGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\5.0.0\build\netstandard2.0\Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('$(NuGetPackageRoot)microsoft.extensions.configuration.usersecrets\5.0.0\build\netstandard2.0\Microsoft.Extensions.Configuration.UserSecrets.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\simon\.nuget\packages\fsharp.core\6.0.5</PkgFSharp_Core>
+    <PkgPly Condition=" '$(PkgPly)' == '' ">C:\Users\simon\.nuget\packages\ply\0.3.1</PkgPly>
+    <PkgMicrosoft_Extensions_Configuration Condition=" '$(PkgMicrosoft_Extensions_Configuration)' == '' ">C:\Users\simon\.nuget\packages\microsoft.extensions.configuration\5.0.0</PkgMicrosoft_Extensions_Configuration>
+    <PkgMicrosoft_Extensions_Configuration_Json Condition=" '$(PkgMicrosoft_Extensions_Configuration_Json)' == '' ">C:\Users\simon\.nuget\packages\microsoft.extensions.configuration.json\5.0.0</PkgMicrosoft_Extensions_Configuration_Json>
+    <PkgMicrosoft_Extensions_Hosting Condition=" '$(PkgMicrosoft_Extensions_Hosting)' == '' ">C:\Users\simon\.nuget\packages\microsoft.extensions.hosting\5.0.0</PkgMicrosoft_Extensions_Hosting>
+    <PkgDSharpPlus Condition=" '$(PkgDSharpPlus)' == '' ">C:\Users\simon\.nuget\packages\dsharpplus\4.2.0</PkgDSharpPlus>
+    <PkgDSharpPlus_CommandsNext Condition=" '$(PkgDSharpPlus_CommandsNext)' == '' ">C:\Users\simon\.nuget\packages\dsharpplus.commandsnext\4.2.0</PkgDSharpPlus_CommandsNext>
+  </PropertyGroup>
+</Project>
