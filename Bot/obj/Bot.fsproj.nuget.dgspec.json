@@ -36,14 +36,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "DSharpPlus": {
+            "Discord.NET": {
               "target": "Package",
-              "version": "[4.2.0, )",
-              "generatePathProperty": true
-            },
-            "DSharpPlus.CommandsNext": {
-              "target": "Package",
-              "version": "[4.2.0, )",
+              "version": "[3.8.1, )",
               "generatePathProperty": true
             },
             "FSharp.Core": {

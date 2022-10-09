@@ -21,7 +21,6 @@
     <PkgMicrosoft_Extensions_Configuration Condition=" '$(PkgMicrosoft_Extensions_Configuration)' == '' ">C:\Users\simon\.nuget\packages\microsoft.extensions.configuration\5.0.0</PkgMicrosoft_Extensions_Configuration>
     <PkgMicrosoft_Extensions_Configuration_Json Condition=" '$(PkgMicrosoft_Extensions_Configuration_Json)' == '' ">C:\Users\simon\.nuget\packages\microsoft.extensions.configuration.json\5.0.0</PkgMicrosoft_Extensions_Configuration_Json>
     <PkgMicrosoft_Extensions_Hosting Condition=" '$(PkgMicrosoft_Extensions_Hosting)' == '' ">C:\Users\simon\.nuget\packages\microsoft.extensions.hosting\5.0.0</PkgMicrosoft_Extensions_Hosting>
-    <PkgDSharpPlus Condition=" '$(PkgDSharpPlus)' == '' ">C:\Users\simon\.nuget\packages\dsharpplus\4.2.0</PkgDSharpPlus>
-    <PkgDSharpPlus_CommandsNext Condition=" '$(PkgDSharpPlus_CommandsNext)' == '' ">C:\Users\simon\.nuget\packages\dsharpplus.commandsnext\4.2.0</PkgDSharpPlus_CommandsNext>
+    <PkgDiscord_Net Condition=" '$(PkgDiscord_Net)' == '' ">C:\Users\simon\.nuget\packages\discord.net\3.8.1</PkgDiscord_Net>
   </PropertyGroup>
 </Project>
