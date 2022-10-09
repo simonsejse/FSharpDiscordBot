@@ -53,8 +53,14 @@ C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\obj\Debug\net6.0\Bot.fsproj
 C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\obj\Debug\net6.0\Bot.dll
 C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\obj\Debug\net6.0\Bot.pdb
 C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\obj\Debug\net6.0\Bot.genruntimeconfig.cache
-C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\DSharpPlus.dll
-C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\DSharpPlus.CommandsNext.dll
-C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Emzi0767.Common.dll
 C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Newtonsoft.Json.dll
 C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Ply.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Discord.Net.Commands.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Discord.Net.Core.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Discord.Net.Interactions.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Discord.Net.Rest.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Discord.Net.Webhook.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\Discord.Net.WebSocket.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\System.Interactive.Async.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\System.Linq.Async.dll
+C:\Users\simon\Documents\GitHub\FSharpDiscordBot\Bot\bin\Debug\net6.0\System.Reactive.dll
